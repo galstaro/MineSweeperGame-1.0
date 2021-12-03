@@ -31,7 +31,7 @@ game_title.place(x=utils.width_prct(25),y=0)
 
 left_frame = Frame(
     root,
-    bg='black', # Change later to black
+    bg='black',
     width=utils.width_prct(25),
     height=utils.height_prct(75)
 )
@@ -39,7 +39,7 @@ left_frame.place(x=0,y=utils.height_prct(25))
 
 center_frame = Frame(
     root,
-    bg='black', # Change later to black
+    bg='black',
     width=utils.width_prct(75),
     height=utils.height_prct(75)
 )
